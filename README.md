@@ -21,3 +21,4 @@ effet rebond : beaucoup plus simple de publier sur youtube qu'un livre ou un jou
 ### solutions
 - politiques de comptes morts
 - encourager le téléchargement de contenus
+- choix des contenus mis en avant 
