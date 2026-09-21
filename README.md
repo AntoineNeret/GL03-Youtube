@@ -17,3 +17,7 @@ démocratie technique :
   - détermination collective de la désidérabilité/utilité pour le collectif : 2,58 milliards d’utilisateurs actifs mensuels. 
 
 effet rebond : beaucoup plus simple de publier sur youtube qu'un livre ou un journal qu'on a beaucoup plus de contenus. Idem avec les commentaires, les gens peuvent plus facilement donner leur avis (constructif ou non). 
+
+### solutions
+- politiques de comptes morts
+- encourager le téléchargement de contenus
