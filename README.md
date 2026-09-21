@@ -1,13 +1,13 @@
 # GL03-Youtube
 ## Idées 
-### Premiere partie
+### Utilité médico-sociale
 Réponse à plusieurs besoins en une seule et même solutions notamment sur le plan médico-social : 
 - éducation : bcp de contenu info divertissement, bons plans
 - santé : tutos tips
 - condition de vie : divertissement (cinémas, séries)
 - bien être :
 
-### Deuxieme partie
+### Démocratie technique
 substitution : médias traditionnels, apprentissage : livres, cours 
 
 démocratie technique :
